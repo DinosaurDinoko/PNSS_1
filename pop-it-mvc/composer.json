@@ -1,0 +1,13 @@
+{
+    "name": "dinosaurdinoko/pnss",
+    "description": "put 3",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dinosaur"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
